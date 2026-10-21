@@ -3,3 +3,4 @@ l2.pop()
 print(l2)
 
 print(1//2)
+
